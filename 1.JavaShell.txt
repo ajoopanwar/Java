@@ -1,0 +1,16 @@
+pooja@Poojas-MacBook-Air Pooja_POCs % jshell
+|  Welcome to JShell -- Version 17.0.6
+|  For an introduction type: /help intro
+
+jshell> System.out.println("Hello from java shell")
+Hello from java shell
+
+jshell> int a =6;
+a ==> 6
+
+jshell> System.out.println(a);
+6
+
+jshell> /exit
+|  Goodbye
+pooja@Poojas-MacBook-Air Pooja_POCs % 
